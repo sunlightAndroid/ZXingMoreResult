@@ -1,0 +1,1 @@
+include ':rq_scan', ':libzxing'
